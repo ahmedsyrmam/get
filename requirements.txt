@@ -1,0 +1,7 @@
+telebot
+random
+pytes
+pyrogram
+aiosqlite
+opentele
+telethon
